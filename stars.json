@@ -1,9 +1,9 @@
 [
   {
     "full_name": "nektos/act",
-    "stargazers_count": 29546,
-    "open_issues_count": 73,
-    "forks_count": 776
+    "stargazers_count": 29646,
+    "open_issues_count": 79,
+    "forks_count": 779
   },
   {
     "full_name": "jenkinsci/statistics-gatherer-plugin",
@@ -37,7 +37,7 @@
   },
   {
     "full_name": "Fody/NullGuard",
-    "stargazers_count": 622,
+    "stargazers_count": 621,
     "open_issues_count": 8,
     "forks_count": 52
   },
@@ -50,7 +50,7 @@
   {
     "full_name": "toptal/webdevchecklist.com",
     "stargazers_count": 1801,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 390
   },
   {
@@ -63,7 +63,7 @@
     "full_name": "haacked/seegit",
     "stargazers_count": 499,
     "open_issues_count": 11,
-    "forks_count": 109
+    "forks_count": 108
   },
   {
     "full_name": "davidalpert/NAntFTPTask",
