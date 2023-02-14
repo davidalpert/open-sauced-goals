@@ -1,25 +1,25 @@
 [
   {
     "full_name": "nektos/act",
-    "stargazers_count": 34770,
-    "open_issues_count": 88,
+    "stargazers_count": 34890,
+    "open_issues_count": 87,
     "forks_count": 879
   },
   {
     "full_name": "go-git/go-git",
-    "stargazers_count": 4238,
+    "stargazers_count": 4244,
     "open_issues_count": 413,
-    "forks_count": 539
+    "forks_count": 540
   },
   {
     "full_name": "go-task/task",
-    "stargazers_count": 6887,
+    "stargazers_count": 6908,
     "open_issues_count": 161,
     "forks_count": 410
   },
   {
     "full_name": "go-task/task",
-    "stargazers_count": 6887,
+    "stargazers_count": 6908,
     "open_issues_count": 161,
     "forks_count": 410
   },
@@ -27,6 +27,6 @@
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 840,
     "open_issues_count": 9,
-    "forks_count": 518
+    "forks_count": 523
   }
 ]
