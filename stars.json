@@ -1,9 +1,9 @@
 [
   {
     "full_name": "nektos/act",
-    "stargazers_count": 39987,
-    "open_issues_count": 150,
-    "forks_count": 1020
+    "stargazers_count": 40116,
+    "open_issues_count": 156,
+    "forks_count": 1024
   },
   {
     "full_name": "jenkinsci/statistics-gatherer-plugin",
@@ -25,9 +25,9 @@
   },
   {
     "full_name": "IdentityServer/IdentityServer3",
-    "stargazers_count": 2032,
+    "stargazers_count": 2033,
     "open_issues_count": 91,
-    "forks_count": 791
+    "forks_count": 792
   },
   {
     "full_name": "philiplaureano/Functify",
@@ -38,7 +38,7 @@
   {
     "full_name": "Fody/NullGuard",
     "stargazers_count": 668,
-    "open_issues_count": 1,
+    "open_issues_count": 2,
     "forks_count": 55
   },
   {
@@ -115,7 +115,7 @@
   },
   {
     "full_name": "sublimehq/Vintage",
-    "stargazers_count": 568,
+    "stargazers_count": 569,
     "open_issues_count": 89,
     "forks_count": 80
   },
