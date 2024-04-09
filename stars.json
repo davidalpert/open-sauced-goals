@@ -1,9 +1,9 @@
 [
   {
     "full_name": "nektos/act",
-    "stargazers_count": 49655,
-    "open_issues_count": 207,
-    "forks_count": 1229
+    "stargazers_count": 49736,
+    "open_issues_count": 210,
+    "forks_count": 1234
   },
   {
     "full_name": "jenkinsci/statistics-gatherer-plugin",
@@ -25,7 +25,7 @@
   },
   {
     "full_name": "IdentityServer/IdentityServer3",
-    "stargazers_count": 2022,
+    "stargazers_count": 2021,
     "open_issues_count": 91,
     "forks_count": 766
   },
@@ -37,7 +37,7 @@
   },
   {
     "full_name": "Fody/NullGuard",
-    "stargazers_count": 687,
+    "stargazers_count": 684,
     "open_issues_count": 5,
     "forks_count": 56
   },
@@ -61,9 +61,9 @@
   },
   {
     "full_name": "haacked/seegit",
-    "stargazers_count": 504,
+    "stargazers_count": 505,
     "open_issues_count": 11,
-    "forks_count": 108
+    "forks_count": 105
   },
   {
     "full_name": "davidalpert/NAntFTPTask",
@@ -115,7 +115,7 @@
   },
   {
     "full_name": "sublimehq/Vintage",
-    "stargazers_count": 575,
+    "stargazers_count": 576,
     "open_issues_count": 91,
     "forks_count": 76
   },
