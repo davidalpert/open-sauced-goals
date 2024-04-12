@@ -1,9 +1,9 @@
 [
   {
     "full_name": "nektos/act",
-    "stargazers_count": 49736,
-    "open_issues_count": 210,
-    "forks_count": 1234
+    "stargazers_count": 49829,
+    "open_issues_count": 207,
+    "forks_count": 1236
   },
   {
     "full_name": "jenkinsci/statistics-gatherer-plugin",
@@ -39,7 +39,7 @@
     "full_name": "Fody/NullGuard",
     "stargazers_count": 684,
     "open_issues_count": 5,
-    "forks_count": 56
+    "forks_count": 54
   },
   {
     "full_name": "humnotation/hummingbird",
@@ -61,9 +61,9 @@
   },
   {
     "full_name": "haacked/seegit",
-    "stargazers_count": 505,
+    "stargazers_count": 506,
     "open_issues_count": 11,
-    "forks_count": 105
+    "forks_count": 106
   },
   {
     "full_name": "davidalpert/NAntFTPTask",
