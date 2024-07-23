@@ -1,9 +1,9 @@
 [
   {
     "full_name": "nektos/act",
-    "stargazers_count": 52485,
-    "open_issues_count": 207,
-    "forks_count": 1308
+    "stargazers_count": 52566,
+    "open_issues_count": 206,
+    "forks_count": 1312
   },
   {
     "full_name": "jenkinsci/statistics-gatherer-plugin",
@@ -63,7 +63,7 @@
     "full_name": "haacked/seegit",
     "stargazers_count": 508,
     "open_issues_count": 11,
-    "forks_count": 105
+    "forks_count": 106
   },
   {
     "full_name": "davidalpert/NAntFTPTask",
