@@ -1,21 +1,15 @@
 [
   {
     "full_name": "nektos/act",
-    "stargazers_count": 67095,
-    "open_issues_count": 273,
-    "forks_count": 1782
+    "stargazers_count": 67140,
+    "open_issues_count": 276,
+    "forks_count": 1790
   },
   {
     "full_name": "jenkinsci/statistics-gatherer-plugin",
     "stargazers_count": 51,
     "open_issues_count": 16,
     "forks_count": 45
-  },
-  {
-    "full_name": "kondaskondas/FirstsStepsRUI",
-    "stargazers_count": 43,
-    "open_issues_count": 2,
-    "forks_count": 18
   },
   {
     "full_name": "jarhart/rattler",
@@ -49,7 +43,7 @@
   },
   {
     "full_name": "haacked/seegit",
-    "stargazers_count": 519,
+    "stargazers_count": 518,
     "open_issues_count": 11,
     "forks_count": 105
   },
@@ -178,5 +172,11 @@
     "stargazers_count": 7,
     "open_issues_count": 0,
     "forks_count": 2
+  },
+  {
+    "full_name": "davidalpert/ncqrs-sample",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
   }
 ]
