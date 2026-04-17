@@ -1,9 +1,9 @@
 [
   {
     "full_name": "nektos/act",
-    "stargazers_count": 69840,
-    "open_issues_count": 321,
-    "forks_count": 1909
+    "stargazers_count": 69898,
+    "open_issues_count": 319,
+    "forks_count": 1912
   },
   {
     "full_name": "jenkinsci/statistics-gatherer-plugin",
@@ -45,7 +45,7 @@
     "full_name": "haacked/seegit",
     "stargazers_count": 520,
     "open_issues_count": 11,
-    "forks_count": 104
+    "forks_count": 103
   },
   {
     "full_name": "davidalpert/NAntFTPTask",
@@ -97,7 +97,7 @@
   },
   {
     "full_name": "sublimehq/Vintage",
-    "stargazers_count": 584,
+    "stargazers_count": 583,
     "open_issues_count": 95,
     "forks_count": 74
   },
