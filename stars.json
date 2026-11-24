@@ -1,9 +1,9 @@
 [
   {
     "full_name": "nektos/act",
-    "stargazers_count": 72744,
-    "open_issues_count": 294,
-    "forks_count": 2129
+    "stargazers_count": 72774,
+    "open_issues_count": 302,
+    "forks_count": 2118
   },
   {
     "full_name": "jenkinsci/statistics-gatherer-plugin",
@@ -26,7 +26,7 @@
   {
     "full_name": "Fody/NullGuard",
     "stargazers_count": 680,
-    "open_issues_count": 1,
+    "open_issues_count": 0,
     "forks_count": 52
   },
   {
@@ -43,7 +43,7 @@
   },
   {
     "full_name": "haacked/seegit",
-    "stargazers_count": 520,
+    "stargazers_count": 521,
     "open_issues_count": 11,
     "forks_count": 104
   },
